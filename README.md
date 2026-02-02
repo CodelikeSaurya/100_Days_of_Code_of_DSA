@@ -1,4 +1,4 @@
-# 🚀 100 Days of Code – DSA Challeng
+# 🚀 100 Days of Code – DSA Challenge
 
 ## 📌 About the Challenge
 This repository is part of the **100 Days of Code – Data Structures & Algorithms (DSA)** challenge assigned by my college.
